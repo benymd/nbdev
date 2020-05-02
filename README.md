@@ -45,6 +45,8 @@ git clone https://github.com/fastai/nbdev
 pip install -e nbdev
 ```
 
+_Note that `nbdev` must be installed into the same python environment that you use for both your Jupyter Server and your workspace._
+
 ## Getting Started
 
 To begin your own project: 
